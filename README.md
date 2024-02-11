@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Shaunak Joshi.
+
+- 🖥️ Coding in mainly Python
+- ✨ Extremely interested in Large Language Models, Conversation AI, Computer Vision
+- 📊 Fascinated by Data
 
 <!--
 **Shaunak-Joshi/Shaunak-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
