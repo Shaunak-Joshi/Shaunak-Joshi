@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shaunak Joshi.
 
 - 🖥️ Coding in mainly Python
-- ✨ Extremely interested in Large Language Models, Conversation AI, Computer Vision
+- ✨ Extremely interested in Large Language Models, Conversation AI, Computer Vision, Python Development
 - 📊 Fascinated by Data
 
 <!--
